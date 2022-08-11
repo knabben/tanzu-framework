@@ -36,7 +36,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-ldap/ldap/v3 v3.3.0
 	github.com/go-logr/logr v1.2.2
-	github.com/go-openapi/errors v0.19.2
+	github.com/go-openapi/errors v0.20.3
 	github.com/go-openapi/loads v0.19.4
 	github.com/go-openapi/runtime v0.19.4
 	github.com/go-openapi/spec v0.19.5
@@ -102,7 +102,7 @@ require (
 	google.golang.org/api v0.63.0
 	google.golang.org/grpc v1.44.0
 	gopkg.in/yaml.v2 v2.4.0
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.23.5
 	k8s.io/apiextensions-apiserver v0.23.5
 	k8s.io/apimachinery v0.23.5
